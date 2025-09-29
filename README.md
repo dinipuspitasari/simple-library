@@ -13,7 +13,7 @@
 
 # Simple Library
 
-Simple Library adalah aplikasi perpustakaan berbasis **Laravel 12 + Jetstream**, dibuat untuk memudahkan manajemen buku, pengguna, dan peminjaman secara sederhana.
+Simple Library adalah aplikasi perpustakaan berbasis **Laravel 12 + Jetstream**.
 
 ---
 
